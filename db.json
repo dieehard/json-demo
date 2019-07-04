@@ -28,33 +28,18 @@
   "customer": [
     {
       "CustomerId": "1",
-      "CustomerUid": "NLgGdJs09RD",
+      "CustomerUid": "0",
       "Name": "Customer 1",
-      "Phone": "08562655646794",
+      "Phone": "0",
       "Address": "Makassar",
-      "Latitude": "-5.1551613",
-      "Longitude": "119.4412576",
+      "Latitude": "0",
+      "Longitude": "0",
       "Picture": null,
       "Notes": null,
-      "FarmerID": "731701863",
+      "FarmerID": "1",
       "DateCreated": "1560158392093",
       "DateUpdated": null,
-      "CreatedBy": "furqonuddin.ramdhani@gmail.com"
-    },
-    {
-      "CustomerId": "2",
-      "CustomerUid": "xLDqZKs71fp",
-      "Name": "Customer 2",
-      "Phone": "08562655646795",
-      "Address": "Makassar",
-      "Latitude": "-5.1551610",
-      "Longitude": "119.4412570",
-      "Picture": null,
-      "Notes": null,
-      "FarmerID": "731701862",
-      "DateCreated": "1560158392093",
-      "DateUpdated": null,
-      "CreatedBy": "furqonuddin.ramdhani@gmail.com"
+      "CreatedBy": "xx@gmail.com"
     }
   ]
 }
